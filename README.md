@@ -1,5 +1,7 @@
 # Hash/Unhash Exercise 
 
+Run `npm install` and `npm test` to see the spec passing. For implementation details check out  [`getstr()` func](https://github.com/voronianski/hash-unhash-exercise/blob/master/spec.js#L13). Usually I do not write so much comments in the code, but it feels like this one should be thouroughly documented.
+
 ## Task
 
 Write JavaScript code to find a 9 letter string of characters that contains only letters from `acdegilmnoprstuw` such that the `hash(string)` is `956446786872726`.
