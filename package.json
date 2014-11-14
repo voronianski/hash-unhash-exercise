@@ -1,0 +1,16 @@
+{
+  "name": "hash-unhash-exercise",
+  "version": "0.1.0",
+  "description": "Hash/Unhash Exercise",
+  "main": "spec.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "should": "^4.3.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./spec.js --reporter spec"
+  },
+  "author": "",
+  "license": "MIT"
+}
